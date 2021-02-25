@@ -1,0 +1,12 @@
+{
+  "name": "component-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Adam Majmudar",
+  "license": "ISC",
+  "dependencies": {
+    "styled-components": "^5.2.1"
+  }
+}
